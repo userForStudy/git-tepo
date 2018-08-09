@@ -1,2 +1,2 @@
-print("goodbye");
-printf("gg");
+print("goodbye")
+printf("gg")
