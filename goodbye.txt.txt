@@ -1,2 +1,4 @@
-print("goodbye")
-printf("gg")
+<<<<<<< HEAD
+print("goodbye");
+printf("gg");
+printf("wp");
