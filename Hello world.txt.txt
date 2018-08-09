@@ -1,1 +1,2 @@
 print("HELL OR WOLRD");
+print("Hello, world!");
