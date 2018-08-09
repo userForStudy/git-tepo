@@ -1,3 +1,4 @@
 print("HELL OR WOLRD");
 print("Hello, world!");
 printf("HALLOW");
+print("Hello, my dear friend");
